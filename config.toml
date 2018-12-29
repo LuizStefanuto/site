@@ -1,6 +1,6 @@
 baseURL = "https://example.com/"
 languageCode = "en-US"
-title = "My New Hugo Site"
+title = "Luiz Stefanuto"
 theme = "bootstrap-bp-hugo-theme"
 # googleAnalytics = "UA-123-45"
 copyright = "Sebastian Pech"
@@ -20,10 +20,10 @@ paginate = 5
     page = "/:slug/"
 
 [Author]  
-  name = "Sebastian Pech"
+  name = "Luiz Stefanuto"
 
 [params]
-  description = "Text about the site"
+  description = "Personal site, investment ideas and more"
   #images = ["logo.jpg"]
   showPostSummary = true
   startPageColumns = true
